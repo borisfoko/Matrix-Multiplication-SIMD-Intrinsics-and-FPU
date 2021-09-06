@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <rdmgr>
+  <timestamp type="u64_t">1627614229</timestamp>
+  <hostname>DESKTOP-FF0I0TU</hostname>
+  <os>windows</os>
+  <product>Intel® oneAPI VTune™ Profiler 2021.2.0</product>
+  <buildNumber type="s32_t">615922</buildNumber>
+  <logicalCPUCount type="s32_t">8</logicalCPUCount>
+  <physicalCoreCount type="s32_t">4</physicalCoreCount>
+  <processorPackageCount type="s32_t">1</processorPackageCount>
+  <CPUFrequency type="s64_t">1800000000</CPUFrequency>
+  <CPUFamily type="s32_t">6</CPUFamily>
+  <CPUModel type="s32_t">142</CPUModel>
+  <CPUStepping type="s32_t">12</CPUStepping>
+  <CPUBrandName>Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz</CPUBrandName>
+  <isa>avx2</isa>
+  <collectionTimeBegin type="u64_t">1627614229</collectionTimeBegin>
+  <collectionTimeEnd type="u64_t">1627614238</collectionTimeEnd>
+  <variables>
+   <at>ue</at>
+  </variables>
+ </rdmgr>
+</root>
